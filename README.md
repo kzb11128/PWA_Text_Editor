@@ -29,7 +29,7 @@ Type the following command in your termimal:
 Then open a brower and type http://localhost:3000/ to run this application on your local machine.
 
 You should see the JATE on your browser. See screenshot below:
-![Screenshot](./assets/web-brower.jpg)
+![Screenshot](./assets/web-browser.jpg)
 
 You can also install the app on your local machine by clicking on the `Install!` button at the top-right corner.  Once complete you should see the app on your local drive. See screenshot below:
 ![Screenshot](./assets/app.jpg)
