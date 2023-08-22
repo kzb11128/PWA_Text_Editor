@@ -14,7 +14,7 @@ The application is a web text editor where the user can create notes or code sni
 
 
 ## Deployed Link
-The link to the deployed application is at [Heroku website link](https://dashboard.heroku.com/apps/limitless-fjord-82509)
+The link to the deployed application is at [Heroku website link](https://limitless-fjord-82509-5b0bd798630a.herokuapp.com/)
 
 ## Installation
 `git clone` the repo to your local machine. To use this application, run the following command to install the dependencies: 
